@@ -15,11 +15,12 @@ body{
 }
 
 header {
+    background-color: rgb(8, 3, 255);
     grid-row: 1;
     grid-column: 2/6;
     text-align: center;
     padding-bottom: 6%;
-    border: rgb(8, 3, 255) solid 2px;
+    border: rgb(3, 0, 163) solid 2px;
     border-radius: 5px;
 }
 
@@ -28,6 +29,8 @@ header {
 }
 
 #pkmnname{
+    color: black;
+    font-weight: bold;
     grid-row: 1;
     grid-column: 1;
     text-align: left;
@@ -51,10 +54,11 @@ header {
 }
 
 footer{
+    background-color: rgb(8, 3, 255);
     grid-row: 5;
     grid-column: 2/6;
     padding: 1%;
-    border: rgb(8, 3, 255) solid 2px;
+    border: rgb(3, 0, 163) solid 2px;
     border-radius: 5px;
 }
 /* ----------------------------------------------Shellder--------------------------------------------------------------------- */
@@ -79,11 +83,12 @@ footer{
 }
 
 #about1{
+    color: black;
     grid-row: 3;
     grid-column: 1;
     text-align: center;
     margin: 3%;
-    border: lightblue solid 2px;
+    border: rgb(0, 71, 138) solid 2px;
     background-color: rgb(2, 107, 206);
 }
 /* ----------------------------------------------Shellder--------------------------------------------------------------------- */
@@ -104,11 +109,12 @@ footer{
 }
 
 #about3{
+    color: black;
     grid-row: 3;
     grid-column: 1;
     text-align: center;
     margin: 3%;
-    border: rgb(0, 133, 11) solid 2px;
+    border: rgb(0, 75, 6) solid 2px;
     background-color: rgb(0, 116, 15);
 }
 #rowlet{
@@ -133,11 +139,12 @@ height: 100%;
 }
 
 #about4{
+    color: black;
     grid-row: 3;
     grid-column: 1;
     text-align: center;
     margin: 3%;
-    border: rgb(0, 133, 11) solid 2px;
+    border: rgb(0, 75, 6) solid 2px;
     background-color: rgb(0, 116, 15);
 }
 #scyther{
@@ -162,6 +169,7 @@ height: 100%;
 }
 
 #about5{
+    color: black;
     grid-row: 3;
     grid-column: 1;
     text-align: center;
@@ -191,6 +199,7 @@ height: 100%;
 }
 
 #about6{
+    color: black;
     grid-row: 3;
     grid-column: 1;
     text-align: center;
@@ -220,6 +229,7 @@ height: 100%;
 }
 
 #about7{
+    color: black;
     grid-row: 3;
     grid-column: 1;
     text-align: center;

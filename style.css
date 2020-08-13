@@ -61,6 +61,13 @@ footer{
     border: rgb(3, 0, 163) solid 2px;
     border-radius: 5px;
 }
+a{
+    color: white;
+    text-decoration: solid;
+}
+a:hover{
+    color: red;
+}
 /* ----------------------------------------------Shellder--------------------------------------------------------------------- */
 #body1{
     grid-row: 2;
